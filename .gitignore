@@ -1,0 +1,15 @@
+# Ignorar node_modules en cualquier carpeta
+**/node_modules/
+
+# Ignorar carpetas de compilación
+**/build/
+**/dist/
+
+# Ignorar Expo
+.expo/
+
+# Archivos de configuración locales
+.env
+
+# Logs
+*.log
